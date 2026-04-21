@@ -4,6 +4,12 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![React](https://img.shields.io/badge/React-19-61dafb)
 
+## 🔗 Live Demo
+
+**Frontend**: https://wealth-ai-zzfq.vercel.app/
+
+---
+
 An institutional-grade wealth management platform that combines quantitative finance with generative AI to provide personalized investment strategies and real-time market intelligence.
 
 ## 🏗️ Architecture
