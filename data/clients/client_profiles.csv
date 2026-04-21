@@ -1,0 +1,4 @@
+client_id,name,age,geo,risk_tolerance,investment_horizon,liquidity_need,total_aum,financial_goal,portfolio_json
+HSBC-WM-0001,Rajesh Iyer,58,India (Chennai),Conservative,5,High,8500000,Capital preservation & regular income,"{""HDFCBANK.NS"": 0.12, ""NIFTYBEES.NS"": 0.15, ""GOLDBEES.NS"": 0.2, ""LIQUIDBEES.NS"": 0.2, ""TLT"": 0.1, ""Cash"": 0.23}"
+HSBC-WM-0002,Priya Sharma,32,India (Bengaluru),Aggressive,20,Low,4200000,Wealth creation & early retirement corpus,"{""INFY.NS"": 0.15, ""TCS.NS"": 0.12, ""RELIANCE.NS"": 0.1, ""AAPL"": 0.15, ""MSFT"": 0.13, ""TSLA"": 0.1, ""QQQ"": 0.15, ""Cash"": 0.1}"
+HSBC-WM-0003,Michael Chen,47,Singapore,Moderate,12,Medium,6200000,Balanced growth & international diversification,"{""AAPL"": 0.12, ""MSFT"": 0.1, ""GOOGL"": 0.08, ""SPY"": 0.2, ""GLD"": 0.1, ""VNQ"": 0.1, ""RELIANCE.NS"": 0.08, ""HDFCBANK.NS"": 0.07, ""TLT"": 0.1, ""Cash"": 0.05}"

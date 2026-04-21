@@ -1,0 +1,53 @@
+# Environments
+.env
+.venv
+venv
+ENV/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Databases & Data
+*.db
+*.sqlite3
+data/raw/*.csv
+data/processed/*.json
+data/processed/*.csv
+backend/data/*.db
+
+# FAISS Index (Optional: keep if you want pre-indexed data)
+# faiss_index/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+frontend/nul
+=1.0.0
+
+# Deployment
+DEPLOYMENT.md
+

@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>WealthPulse - Financial Intelligence</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600;700&display=swap"
+    rel="stylesheet">
+  <style>
+    :root {
+      --terminal-bg: #f8fafc;
+      --terminal-surface: #ffffff;
+      --terminal-card: #ffffff;
+      --terminal-border: #e2e8f0;
+      --terminal-hover: #f1f5f9;
+      --text-primary: #1e293b;
+      --text-secondary: #64748b;
+      --text-muted: #94a3b8;
+      --bullish: #10b981;
+      --bearish: #ef4444;
+      --accent-cyan: #06b6d4;
+      --accent-purple: #8b5cf6;
+      --accent-gold: #f59e0b;
+      --accent-green: #22c55e;
+      --accent-pink: #ec4899;
+      --accent-orange: #f97316;
+      --accent-blue: #3b82f6;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html,
+    body,
+    #root {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background-color: var(--terminal-bg);
+      color: var(--text-primary);
+      font-family: 'Inter', system-ui, sans-serif;
+    }
+
+    ::-webkit-scrollbar {
+      width: 6px;
+      height: 6px;
+    }
+
+    ::-webkit-scrollbar-track {
+      background: var(--terminal-bg);
+    }
+
+    ::-webkit-scrollbar-thumb {
+      background: var(--terminal-border);
+      border-radius: 3px;
+    }
+
+    ::-webkit-scrollbar-thumb:hover {
+      background: #cbd5e1;
+    }
+
+    .font-mono {
+      font-family: 'IBM Plex Mono', monospace;
+    }
+  </style>
+</head>
+
+<body class="bg-terminal-bg">
+  <div id="root"></div>
+  <script type="module" src="/src/main.jsx"></script>
+</body>
+
+</html>

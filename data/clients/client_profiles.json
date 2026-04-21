@@ -1,0 +1,77 @@
+[
+  {
+    "client_id": "HSBC-WM-0001",
+    "name": "Rajesh Iyer",
+    "age": 58,
+    "occupation": "Retired IAS Officer",
+    "geo": "India (Chennai)",
+    "risk_tolerance": "Conservative",
+    "investment_horizon": 5,
+    "liquidity_need": "High",
+    "total_aum": 8500000,
+    "annual_income": 1800000,
+    "tax_bracket": "30%",
+    "kyc_status": "Verified",
+    "financial_goal": "Capital preservation & regular income",
+    "portfolio": {
+      "HDFCBANK.NS": 0.12,
+      "NIFTYBEES.NS": 0.15,
+      "GOLDBEES.NS": 0.2,
+      "LIQUIDBEES.NS": 0.2,
+      "TLT": 0.1,
+      "Cash": 0.23
+    }
+  },
+  {
+    "client_id": "HSBC-WM-0002",
+    "name": "Priya Sharma",
+    "age": 32,
+    "occupation": "Principal Data Scientist, Bengaluru",
+    "geo": "India (Bengaluru)",
+    "risk_tolerance": "Aggressive",
+    "investment_horizon": 20,
+    "liquidity_need": "Low",
+    "total_aum": 4200000,
+    "annual_income": 4500000,
+    "tax_bracket": "30%",
+    "kyc_status": "Verified",
+    "financial_goal": "Wealth creation & early retirement corpus",
+    "portfolio": {
+      "INFY.NS": 0.15,
+      "TCS.NS": 0.12,
+      "RELIANCE.NS": 0.1,
+      "AAPL": 0.15,
+      "MSFT": 0.13,
+      "TSLA": 0.1,
+      "QQQ": 0.15,
+      "Cash": 0.1
+    }
+  },
+  {
+    "client_id": "HSBC-WM-0003",
+    "name": "Michael Chen",
+    "age": 47,
+    "occupation": "Managing Director, Private Equity",
+    "geo": "Singapore",
+    "risk_tolerance": "Moderate",
+    "investment_horizon": 12,
+    "liquidity_need": "Medium",
+    "total_aum": 6200000,
+    "annual_income": 1800000,
+    "tax_bracket": "22%",
+    "kyc_status": "Verified",
+    "financial_goal": "Balanced growth & international diversification",
+    "portfolio": {
+      "AAPL": 0.12,
+      "MSFT": 0.1,
+      "GOOGL": 0.08,
+      "SPY": 0.2,
+      "GLD": 0.1,
+      "VNQ": 0.1,
+      "RELIANCE.NS": 0.08,
+      "HDFCBANK.NS": 0.07,
+      "TLT": 0.1,
+      "Cash": 0.05
+    }
+  }
+]

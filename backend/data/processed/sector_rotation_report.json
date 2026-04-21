@@ -1,0 +1,444 @@
+{
+  "generated_at": "2026-04-21 19:34:09",
+  "market_breadth": {
+    "current": {
+      "advancing": 51,
+      "declining": 21,
+      "breadth_pct": 70.8,
+      "date": "2026-04-20"
+    },
+    "history": [
+      {
+        "advancing": 39,
+        "declining": 33,
+        "breadth_pct": 54.2,
+        "date": "2026-04-06"
+      },
+      {
+        "advancing": 38,
+        "declining": 34,
+        "breadth_pct": 52.8,
+        "date": "2026-04-07"
+      },
+      {
+        "advancing": 50,
+        "declining": 22,
+        "breadth_pct": 69.4,
+        "date": "2026-04-08"
+      },
+      {
+        "advancing": 54,
+        "declining": 18,
+        "breadth_pct": 75.0,
+        "date": "2026-04-09"
+      },
+      {
+        "advancing": 54,
+        "declining": 18,
+        "breadth_pct": 75.0,
+        "date": "2026-04-10"
+      },
+      {
+        "advancing": 50,
+        "declining": 22,
+        "breadth_pct": 69.4,
+        "date": "2026-04-13"
+      },
+      {
+        "advancing": 51,
+        "declining": 21,
+        "breadth_pct": 70.8,
+        "date": "2026-04-15"
+      },
+      {
+        "advancing": 49,
+        "declining": 23,
+        "breadth_pct": 68.1,
+        "date": "2026-04-16"
+      },
+      {
+        "advancing": 48,
+        "declining": 24,
+        "breadth_pct": 66.7,
+        "date": "2026-04-17"
+      },
+      {
+        "advancing": 51,
+        "declining": 21,
+        "breadth_pct": 70.8,
+        "date": "2026-04-20"
+      }
+    ],
+    "signal": "Bullish",
+    "breadth_details": {
+      "top_advancers": [
+        {
+          "name": "Nifty Media",
+          "change": 0.9
+        },
+        {
+          "name": "Nifty PSU Bank",
+          "change": 0.87
+        },
+        {
+          "name": "Nifty Energy",
+          "change": 0.78
+        },
+        {
+          "name": "Nifty Auto",
+          "change": 0.33
+        },
+        {
+          "name": "Nifty Consumer Durables",
+          "change": 0.27
+        },
+        {
+          "name": "Nifty Infrastructure",
+          "change": 0.09
+        },
+        {
+          "name": "NSEI",
+          "change": 0.05
+        }
+      ],
+      "top_decliners": [
+        {
+          "name": "Nifty IT",
+          "change": -0.7
+        },
+        {
+          "name": "Nifty Realty",
+          "change": -0.62
+        },
+        {
+          "name": "Nifty Metal",
+          "change": -0.39
+        },
+        {
+          "name": "Nifty FMCG",
+          "change": -0.21
+        },
+        {
+          "name": "Nifty Pharma",
+          "change": -0.18
+        }
+      ]
+    }
+  },
+  "rrg_coordinates": [
+    {
+      "ticker": "^CNXIT",
+      "name": "Nifty IT",
+      "rs_ratio": 1.2994,
+      "momentum": 4.5,
+      "quadrant": "Leading",
+      "sector_return": 6.86,
+      "bench_return": 2.47,
+      "relative_return": 4.39,
+      "rs_change": 0.0126,
+      "mom_change": 2.39
+    },
+    {
+      "ticker": "^CNXAUTO",
+      "name": "Nifty Auto",
+      "rs_ratio": 1.0763,
+      "momentum": -1.9,
+      "quadrant": "Leading",
+      "sector_return": 3.61,
+      "bench_return": 2.47,
+      "relative_return": 1.14,
+      "rs_change": 0.0067,
+      "mom_change": 0.9
+    },
+    {
+      "ticker": "^CNXFMCG",
+      "name": "Nifty FMCG",
+      "rs_ratio": 2.0222,
+      "momentum": -0.56,
+      "quadrant": "Lagging",
+      "sector_return": 3.07,
+      "bench_return": 2.47,
+      "relative_return": 0.6,
+      "rs_change": -0.0077,
+      "mom_change": -0.91
+    },
+    {
+      "ticker": "^CNXPHARMA",
+      "name": "Nifty Pharma",
+      "rs_ratio": 0.9509,
+      "momentum": 3.89,
+      "quadrant": "Lagging",
+      "sector_return": -0.78,
+      "bench_return": 2.47,
+      "relative_return": -3.25,
+      "rs_change": -0.0096,
+      "mom_change": -3.64
+    },
+    {
+      "ticker": "^CNXMETAL",
+      "name": "Nifty Metal",
+      "rs_ratio": 0.504,
+      "momentum": 4.23,
+      "quadrant": "Leading",
+      "sector_return": 10.36,
+      "bench_return": 2.47,
+      "relative_return": 7.89,
+      "rs_change": 0.0067,
+      "mom_change": 0.22
+    },
+    {
+      "ticker": "^CNXREALTY",
+      "name": "Nifty Realty",
+      "rs_ratio": 0.0306,
+      "momentum": -2.54,
+      "quadrant": "Leading",
+      "sector_return": 7.01,
+      "bench_return": 2.47,
+      "relative_return": 4.54,
+      "rs_change": 0.0004,
+      "mom_change": 2.3
+    },
+    {
+      "ticker": "^CNXENERGY",
+      "name": "Nifty Energy",
+      "rs_ratio": 1.5524,
+      "momentum": 5.66,
+      "quadrant": "Weakening",
+      "sector_return": 8.42,
+      "bench_return": 2.47,
+      "relative_return": 5.95,
+      "rs_change": 0.0092,
+      "mom_change": -1.16
+    },
+    {
+      "ticker": "^CNXCONSUM",
+      "name": "Nifty Consumer Durables",
+      "rs_ratio": 0.4636,
+      "momentum": 0.96,
+      "quadrant": "Leading",
+      "sector_return": 4.6,
+      "bench_return": 2.47,
+      "relative_return": 2.13,
+      "rs_change": 0.0021,
+      "mom_change": 0.61
+    },
+    {
+      "ticker": "^CNXMEDIA",
+      "name": "Nifty Media",
+      "rs_ratio": 0.0569,
+      "momentum": 1.43,
+      "quadrant": "Leading",
+      "sector_return": 5.74,
+      "bench_return": 2.47,
+      "relative_return": 3.28,
+      "rs_change": 0.0004,
+      "mom_change": 0.73
+    },
+    {
+      "ticker": "^CNXPSUBANK",
+      "name": "Nifty PSU Bank",
+      "rs_ratio": 0.3633,
+      "momentum": -3.38,
+      "quadrant": "Lagging",
+      "sector_return": 3.22,
+      "bench_return": 2.47,
+      "relative_return": 0.75,
+      "rs_change": -0.0007,
+      "mom_change": -1.03
+    },
+    {
+      "ticker": "^CNXINFRA",
+      "name": "Nifty Infrastructure",
+      "rs_ratio": 0.3802,
+      "momentum": 0.71,
+      "quadrant": "Weakening",
+      "sector_return": 3.94,
+      "bench_return": 2.47,
+      "relative_return": 1.47,
+      "rs_change": 0.0009,
+      "mom_change": -0.15
+    }
+  ],
+  "quadrants": {
+    "Leading": [
+      {
+        "ticker": "^CNXIT",
+        "name": "Nifty IT",
+        "rs_ratio": 1.2994,
+        "momentum": 4.5,
+        "quadrant": "Leading",
+        "sector_return": 6.86,
+        "bench_return": 2.47,
+        "relative_return": 4.39,
+        "rs_change": 0.0126,
+        "mom_change": 2.39
+      },
+      {
+        "ticker": "^CNXAUTO",
+        "name": "Nifty Auto",
+        "rs_ratio": 1.0763,
+        "momentum": -1.9,
+        "quadrant": "Leading",
+        "sector_return": 3.61,
+        "bench_return": 2.47,
+        "relative_return": 1.14,
+        "rs_change": 0.0067,
+        "mom_change": 0.9
+      },
+      {
+        "ticker": "^CNXMETAL",
+        "name": "Nifty Metal",
+        "rs_ratio": 0.504,
+        "momentum": 4.23,
+        "quadrant": "Leading",
+        "sector_return": 10.36,
+        "bench_return": 2.47,
+        "relative_return": 7.89,
+        "rs_change": 0.0067,
+        "mom_change": 0.22
+      },
+      {
+        "ticker": "^CNXREALTY",
+        "name": "Nifty Realty",
+        "rs_ratio": 0.0306,
+        "momentum": -2.54,
+        "quadrant": "Leading",
+        "sector_return": 7.01,
+        "bench_return": 2.47,
+        "relative_return": 4.54,
+        "rs_change": 0.0004,
+        "mom_change": 2.3
+      },
+      {
+        "ticker": "^CNXCONSUM",
+        "name": "Nifty Consumer Durables",
+        "rs_ratio": 0.4636,
+        "momentum": 0.96,
+        "quadrant": "Leading",
+        "sector_return": 4.6,
+        "bench_return": 2.47,
+        "relative_return": 2.13,
+        "rs_change": 0.0021,
+        "mom_change": 0.61
+      },
+      {
+        "ticker": "^CNXMEDIA",
+        "name": "Nifty Media",
+        "rs_ratio": 0.0569,
+        "momentum": 1.43,
+        "quadrant": "Leading",
+        "sector_return": 5.74,
+        "bench_return": 2.47,
+        "relative_return": 3.28,
+        "rs_change": 0.0004,
+        "mom_change": 0.73
+      }
+    ],
+    "Weakening": [
+      {
+        "ticker": "^CNXENERGY",
+        "name": "Nifty Energy",
+        "rs_ratio": 1.5524,
+        "momentum": 5.66,
+        "quadrant": "Weakening",
+        "sector_return": 8.42,
+        "bench_return": 2.47,
+        "relative_return": 5.95,
+        "rs_change": 0.0092,
+        "mom_change": -1.16
+      },
+      {
+        "ticker": "^CNXINFRA",
+        "name": "Nifty Infrastructure",
+        "rs_ratio": 0.3802,
+        "momentum": 0.71,
+        "quadrant": "Weakening",
+        "sector_return": 3.94,
+        "bench_return": 2.47,
+        "relative_return": 1.47,
+        "rs_change": 0.0009,
+        "mom_change": -0.15
+      }
+    ],
+    "Improving": [],
+    "Lagging": [
+      {
+        "ticker": "^CNXFMCG",
+        "name": "Nifty FMCG",
+        "rs_ratio": 2.0222,
+        "momentum": -0.56,
+        "quadrant": "Lagging",
+        "sector_return": 3.07,
+        "bench_return": 2.47,
+        "relative_return": 0.6,
+        "rs_change": -0.0077,
+        "mom_change": -0.91
+      },
+      {
+        "ticker": "^CNXPHARMA",
+        "name": "Nifty Pharma",
+        "rs_ratio": 0.9509,
+        "momentum": 3.89,
+        "quadrant": "Lagging",
+        "sector_return": -0.78,
+        "bench_return": 2.47,
+        "relative_return": -3.25,
+        "rs_change": -0.0096,
+        "mom_change": -3.64
+      },
+      {
+        "ticker": "^CNXPSUBANK",
+        "name": "Nifty PSU Bank",
+        "rs_ratio": 0.3633,
+        "momentum": -3.38,
+        "quadrant": "Lagging",
+        "sector_return": 3.22,
+        "bench_return": 2.47,
+        "relative_return": 0.75,
+        "rs_change": -0.0007,
+        "mom_change": -1.03
+      }
+    ]
+  },
+  "summary": {
+    "total_sectors": 11,
+    "leading_count": 6,
+    "weakening_count": 2,
+    "improving_count": 0,
+    "lagging_count": 3
+  },
+  "top_performers": [
+    {
+      "name": "Nifty Metal",
+      "relative_return": 7.89,
+      "quadrant": "Leading"
+    },
+    {
+      "name": "Nifty Energy",
+      "relative_return": 5.95,
+      "quadrant": "Weakening"
+    },
+    {
+      "name": "Nifty Realty",
+      "relative_return": 4.54,
+      "quadrant": "Leading"
+    }
+  ],
+  "bottom_performers": [
+    {
+      "name": "Nifty Pharma",
+      "relative_return": -3.25,
+      "quadrant": "Lagging"
+    },
+    {
+      "name": "Nifty FMCG",
+      "relative_return": 0.6,
+      "quadrant": "Lagging"
+    },
+    {
+      "name": "Nifty PSU Bank",
+      "relative_return": 0.75,
+      "quadrant": "Lagging"
+    }
+  ]
+}
